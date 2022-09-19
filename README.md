@@ -1,7 +1,7 @@
 
 # ⚠️ Important Disclosure
 
-This project is currently under construction and there is no access authorization to the project. To contribute to the project, you can contact me at ``berkaytoklucu@workmail.com`` or my social media accounts in my profile.
+This project is currently under construction and there is no access authorization to the project. You can reach me at ``berkaytoklucu@workmail.com`` e-mail address or my social media to contribute to the project!
 
   
 ![Logo](https://cdn.discordapp.com/attachments/1021058556990083225/1021461385701511228/image1.png)
