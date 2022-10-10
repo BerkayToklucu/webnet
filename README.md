@@ -3,13 +3,11 @@
 
 This project is currently under construction and there is no access authorization to the project. You can reach me at ``berkaytoklucu@workmail.com`` e-mail address or my social media to contribute to the project!
 
-  
-![Logo](https://cdn.discordapp.com/attachments/1021058556990083225/1021461385701511228/image1.png)
 
     
-# Web-Temps
+# WebNet
 
-#### Web-Temp is a project where you can access open source web codes that you can use on your site for no cost. By accessing the link of the project, you can reach articles such as how a correct site should be, small source codes or web templates.
+#### WebNet is a project where you can access open source web codes that you can use on your site for no cost. By accessing the link of the project, you can reach articles such as how a correct site should be, small source codes or web templates.
 
 
 # Founders
@@ -18,5 +16,5 @@ This project is currently under construction and there is no access authorizatio
 
 ```You can reach me from the e-mail address in my profile to help with the development and design or sharing stages about the project.```
 ### Lisance
-© 2022 Web-Temps - All Rights Reserved.
+© 2022 WebNet - All Rights Reserved.
   
